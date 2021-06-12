@@ -9,5 +9,4 @@ You found me! So here are some things about me:
 - 😄 Pronouns: ... she/her/hers
 - ⚡ Fun fact: ... I have to learn something new to keep from being bored
 
-For more info, you can also check out my [LinkedIn](https://www.linkedin.com/in/alona-varshal/) profile.
-
+For more info, you can also check out my [LinkedIn](https://www.linkedin.com/in/alona-varshal/) profile or my [website](https://avarshal.gatsbyjs.io).
