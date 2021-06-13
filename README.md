@@ -12,4 +12,4 @@ For more info, you can also check out my [LinkedIn](https://www.linkedin.com/in/
 
 [![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudspringhiker&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudspringhiker)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudspringhiker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
