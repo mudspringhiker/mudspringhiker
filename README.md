@@ -11,5 +11,3 @@ You found me! So here are some things about me:
 For more info, you can also check out my [LinkedIn](https://www.linkedin.com/in/alona-varshal/) profile or my [website](https://avarshal.gatsbyjs.io).
 
 [![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudspringhiker&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-<-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudspringhiker&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --> 
