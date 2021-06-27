@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-You found me! So here are some things about me:
-
 - 🔭 I’m currently working on upping my open source contribution
 - 🌱 I’m currently learning Linux, among other things.
 - 📫 How to reach me: @avarshal ([Twitter](https://twitter.com/home))
