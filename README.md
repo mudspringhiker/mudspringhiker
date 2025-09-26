@@ -1,3 +1,3 @@
 Hello World!
 
-The word "mudspring" came from the server name of my alma mater, the University of the Philippines, Los Banos, home of the inactive volcano, "Maria Makiling". It has a lot of mudsprings.
+The word "mudspring" came from the one of the server names used by my alma mater, the University of the Philippines Los Banos (UPLB). Los Banos, Philippines is home to the inactive volcano, [Mount Makiling](https://en.wikipedia.org/wiki/Mount_Makiling), a popular hiking spot.
